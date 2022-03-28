@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Renewable Energy	</title>
-	<atom:link href="/mit-renewable-energy/website/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/mit-renewable-energy/website/</link>
+	<atom:link href="https://mit-renewable-energy.github.io/website/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mit-renewable-energy.github.io/website/</link>
 	<description>Made Possible by the Science Impact Collaborative</description>
 	<lastBuildDate>Fri, 18 Mar 2022 19:38:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0047</td>
-<td bgcolor="#eeeeec" align="right">366552</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">365016</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/themes/storefront/single.php" bgcolor="#eeeeec">.../single.php<b>:</b>0</td>
 </tr>

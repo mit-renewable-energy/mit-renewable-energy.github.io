@@ -102,7 +102,7 @@
 
 .elementor-panel .elementor-tab-control-tab_ae_pro a:before {
 	display: block;
-	-webkit-mask: url(/mit-renewable-energy/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/images/ae-logo.svg);
+	-webkit-mask: url(https://mit-renewable-energy.github.io/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/images/ae-logo.svg);
 	-webkit-mask-size: contain;
 	-webkit-mask-repeat: no-repeat;
 	-webkit-mask-position: center center;

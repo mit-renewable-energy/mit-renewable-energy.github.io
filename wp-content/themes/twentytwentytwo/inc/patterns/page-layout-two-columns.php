@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0213</td>
-<td bgcolor="#eeeeec" align="right">365656</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">364856</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-two-columns.php" bgcolor="#eeeeec">.../page-layout-two-columns.php<b>:</b>0</td>
 </tr>

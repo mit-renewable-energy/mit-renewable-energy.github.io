@@ -16,22 +16,22 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0055</td>
-<td bgcolor="#eeeeec" align="right">366320</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">364816</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0055</td>
-<td bgcolor="#eeeeec" align="right">366320</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">364816</td>
 <td bgcolor="#eeeeec">Aepro\AeFacetWP_Integration::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>113</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0055</td>
-<td bgcolor="#eeeeec" align="right">366376</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">364872</td>
 <td bgcolor="#eeeeec">Aepro\AeFacetWP_Integration->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>10</td>
 </tr>

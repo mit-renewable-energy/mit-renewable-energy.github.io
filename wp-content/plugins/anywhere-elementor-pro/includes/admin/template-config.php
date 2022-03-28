@@ -16,14 +16,14 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
 <td bgcolor="#eeeeec" align="right">364808</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php" bgcolor="#eeeeec">.../template-config.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
 <td bgcolor="#eeeeec" align="right">364864</td>
 <td bgcolor="#eeeeec">Aepro\Admin\TemplateConfig->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php" bgcolor="#eeeeec">.../template-config.php<b>:</b>541</td>

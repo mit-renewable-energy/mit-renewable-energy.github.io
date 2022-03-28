@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'aep-icons';
   src:
-    url('/mit-renewable-energy/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/aep-icons/fonts/aep-icons.ttf?iimfum') format('truetype'),
-    url('/mit-renewable-energy/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/aep-icons/fonts/aep-icons.woff?iimfum') format('woff'),
-    url('/mit-renewable-energy/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/aep-icons/fonts/aep-icons.svg?iimfum#aep-icons') format('svg');
+    url('https://mit-renewable-energy.github.io/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/aep-icons/fonts/aep-icons.ttf?iimfum') format('truetype'),
+    url('https://mit-renewable-energy.github.io/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/aep-icons/fonts/aep-icons.woff?iimfum') format('woff'),
+    url('https://mit-renewable-energy.github.io/website/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/aep-icons/fonts/aep-icons.svg?iimfum#aep-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }

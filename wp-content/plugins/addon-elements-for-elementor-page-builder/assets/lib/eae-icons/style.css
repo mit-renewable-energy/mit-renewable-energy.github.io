@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'eae-icons';
-  src:  url('/mit-renewable-energy/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.eot?gyovjt');
-  src:  url('/mit-renewable-energy/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.eot?gyovjt#iefix') format('embedded-opentype'),
-    url('/mit-renewable-energy/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.ttf?gyovjt') format('truetype'),
-    url('/mit-renewable-energy/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.woff?gyovjt') format('woff'),
-    url('/mit-renewable-energy/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.svg?gyovjt#eae-icons') format('svg');
+  src:  url('https://mit-renewable-energy.github.io/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.eot?gyovjt');
+  src:  url('https://mit-renewable-energy.github.io/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.eot?gyovjt#iefix') format('embedded-opentype'),
+    url('https://mit-renewable-energy.github.io/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.ttf?gyovjt') format('truetype'),
+    url('https://mit-renewable-energy.github.io/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.woff?gyovjt') format('woff'),
+    url('https://mit-renewable-energy.github.io/website/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/eae-icons/fonts/eae-icons.svg?gyovjt#eae-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }

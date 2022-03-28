@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0185</td>
-<td bgcolor="#eeeeec" align="right">365456</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">364656</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php" bgcolor="#eeeeec">.../header-large-dark.php<b>:</b>0</td>
 </tr>

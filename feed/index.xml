@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Renewable Energy</title>
-	<atom:link href="/mit-renewable-energy/website/feed/" rel="self" type="application/rss+xml" />
-	<link>/mit-renewable-energy/website/</link>
+	<atom:link href="https://mit-renewable-energy.github.io/website/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mit-renewable-energy.github.io/website/</link>
 	<description>Made Possible by the Science Impact Collaborative</description>
 	<lastBuildDate>Fri, 18 Mar 2022 19:10:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,118 +21,118 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>/mit-renewable-energy/website/wp-content/uploads/2022/02/Logo.svg</url>
+	<url>https://mit-renewable-energy.github.io/website/wp-content/uploads/2022/02/Logo.svg</url>
 	<title>Renewable Energy</title>
-	<link>/mit-renewable-energy/website/</link>
+	<link>https://mit-renewable-energy.github.io/website/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Anushree Chaudhuri</title>
-		<link>/mit-renewable-energy/website/anushree-chaudhuri/</link>
-					<comments>/mit-renewable-energy/website/anushree-chaudhuri/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/anushree-chaudhuri/</link>
+					<comments>https://mit-renewable-energy.github.io/website/anushree-chaudhuri/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:57:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=586</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=586</guid>
 
 					<description><![CDATA[Anushree is an undergraduate student at MIT, studying urban planning with computer science and economics. She&#8217;s interested in bringing a data-focused perspective to environmental policy and social impact. As a native San Diegan with origins in Bengal, India, she grew up with a multi-cultural background that makes her eager to bridge gaps between people of [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Anushree is an undergraduate student at MIT, studying urban planning with computer science and economics. She&#8217;s interested in bringing a data-focused perspective to environmental policy and social impact. As a native San Diegan with origins in Bengal, India, she grew up with a multi-cultural background that makes her eager to bridge gaps between people of diverse identities. Currently, she serves as a Climate Change Scope 3 Fellow at the MIT Office of Sustainability and is excited to be a student researcher with the Science Impact Collaborative. Outside of academics, she&#8217;s co-chair of the Undergraduate Association Committee on Sustainability, a lead of the Student Sustainability Coalition, and plays on the Women&#8217;s Ultimate Frisbee team. In her free time, she loves reading and writing, plant-based cooking, yoga, world music, going on long walks with her dog, and learning new things.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/anushree-chaudhuri/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/anushree-chaudhuri/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Larry Susskind</title>
-		<link>/mit-renewable-energy/website/emma-jung/</link>
-					<comments>/mit-renewable-energy/website/emma-jung/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/emma-jung/</link>
+					<comments>https://mit-renewable-energy.github.io/website/emma-jung/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:56:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=585</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=585</guid>
 
 					<description><![CDATA[The Principal Investigator is Larry Susskind, Ford Professor of Urban and Environmental Planning in the MIT Department of Urban Studies and Planning and Vice-Chair of the inter-university Program on Negotiation at Harvard Law School. Professor Susskind is well known in the urban and environmental planning fields for his published work on facility siting, collaborative approaches [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>The Principal Investigator is Larry Susskind, Ford Professor of Urban and Environmental Planning in the MIT Department of Urban Studies and Planning and Vice-Chair of the inter-university Program on Negotiation at Harvard Law School. Professor Susskind is well known in the urban and environmental planning fields for his published work on facility siting, collaborative approaches to public policymaking, and decarbonization. He has supervised more than 75 doctoral dissertations and 150 master’s theses at MIT. He is an applied social scientist with background in public policy, public administration, environmental planning, negotiation and dispute resolution, social entrepreneurship, and conflict resolution.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/emma-jung/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/emma-jung/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Jungwoo Chun</title>
-		<link>/mit-renewable-energy/website/grace-pu/</link>
-					<comments>/mit-renewable-energy/website/grace-pu/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/grace-pu/</link>
+					<comments>https://mit-renewable-energy.github.io/website/grace-pu/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:56:18 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=584</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=584</guid>
 
 					<description><![CDATA[Jungwoo Chun, PhD Candidate in the MIT Department of Urban Studies and Planning, is completing a dissertation investigating the role of intermediaries in mobilizing support for community-based renewable energy projects.]]></description>
 										<content:encoded><![CDATA[<p>Jungwoo Chun, PhD Candidate in the MIT Department of Urban Studies and Planning, is completing a dissertation investigating the role of intermediaries in mobilizing support for community-based renewable energy projects.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/grace-pu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/grace-pu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Jess Cohen</title>
-		<link>/mit-renewable-energy/website/katherine-xiong/</link>
-					<comments>/mit-renewable-energy/website/katherine-xiong/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/katherine-xiong/</link>
+					<comments>https://mit-renewable-energy.github.io/website/katherine-xiong/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:55:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=582</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=582</guid>
 
 					<description><![CDATA[Jess is an undergraduate at MIT, majoring in Physics with a focus in Materials Science and Engineering and minoring in Energy Studies. They are from New York State and have a younger sister. They went to Spackenkill High School where they worked with Dr. Hailiang Wang at Yale University for 3 years on bifunctional catalysis [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Jess is an undergraduate at MIT, majoring in Physics with a focus in Materials Science and Engineering and minoring in Energy Studies. They are from New York State and have a younger sister. They went to Spackenkill High School where they worked with Dr. Hailiang Wang at Yale University for 3 years on bifunctional catalysis for carbon dioxide reduction. In the past at MIT, they have performed research in the Manthiram lab for two years on electrochemical xylene reduction and with Dr. Tracy Slatyer on Fermi Bubble radiation. They have interned at the Strasbourg City Government as well as with a start up at Greentown Labs. They are currently involved with MIT Divest as well as the College Climate Coalition and are greatly interested in environmental justice issues, especially surrounding energy. In their free time they enjoy reading, playing violin, and skiing.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/katherine-xiong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/katherine-xiong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Grace Endy</title>
-		<link>/mit-renewable-energy/website/kenneth-choi/</link>
-					<comments>/mit-renewable-energy/website/kenneth-choi/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/kenneth-choi/</link>
+					<comments>https://mit-renewable-energy.github.io/website/kenneth-choi/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:54:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=575</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=575</guid>
 
 					<description><![CDATA[Grace Endy is a first-year undergraduate student from Westfield, New Jersey. She attended Westfield High School, where she was president of the Rare Disease Club and a member of the varsity cross country and track and field teams. While in high school, Grace volunteered for KIF1A.ORG, creating videos that helped make information about KIF1A-Associated Neurological [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Grace Endy is a first-year undergraduate student from Westfield, New Jersey. She attended Westfield High School, where she was president of the Rare Disease Club and a member of the varsity cross country and track and field teams. While in high school, Grace volunteered for KIF1A.ORG, creating videos that helped make information about KIF1A-Associated Neurological Disorder more accessible for affected families. She is very passionate about combating climate change and is thus interested in studying renewable energy and energy policy. She plans on majoring in chemical engineering. Outside of class, Grace is currently involved with the MIT Running Club and also enjoys baking, reading, hiking, and spending time with her family.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/kenneth-choi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/kenneth-choi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Kanokwan Tungkitkancharoen</title>
-		<link>/mit-renewable-energy/website/kevin-meng/</link>
-					<comments>/mit-renewable-energy/website/kevin-meng/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/kevin-meng/</link>
+					<comments>https://mit-renewable-energy.github.io/website/kevin-meng/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:53:47 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=574</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=574</guid>
 
 					<description><![CDATA[Kano is an undergraduate at MIT from Las Vegas, Nevada. She’s studying mechanical engineering and political science. The highlight job of her gap year was serving as the youngest person on the 2020 Nevada Biden Presidential Data Team. At the MIT 2021 Policy Hackathon, Kano&#8217;s team advanced to finals, reaching Top 3. Outside of political [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Kano is an undergraduate at MIT from Las Vegas, Nevada. She’s studying mechanical engineering and political science. The highlight job of her gap year was serving as the youngest person on the 2020 Nevada Biden Presidential Data Team. At the MIT 2021 Policy Hackathon, Kano&#8217;s team advanced to finals, reaching Top 3. Outside of political activities, Kano loves to build things. In high school, she served as President of VEX Robotics, where she qualified and attended the Robotics World Championship. She was also the Build Captain of Science Olympiad, where she’s qualified and attended the Science Olympiad National Tournament. She’s also conducted independent research on the engineering design of addiction in slot machines through analysis of MRI imaging under the guidance of Professor Daniel Sahl at the UNLV Gaming Innovation Lab. Kano is fascinated by both engineering and political systems because they’re both all about making different things work together in a system towards a common goal. She hopes to apply her interest in building machines and crafting thoughtful policies to advance clean energy. In her free time, Kano enjoys meditating, crafting music playlists, and hunting for spice challenges.</p>
@@ -140,45 +140,45 @@
 <p>hare a passion for STEM and look to transform their ideas into reality!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/kevin-meng/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/kevin-meng/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Joy Ma</title>
-		<link>/mit-renewable-energy/website/mahmoud-khalifa/</link>
-					<comments>/mit-renewable-energy/website/mahmoud-khalifa/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/mahmoud-khalifa/</link>
+					<comments>https://mit-renewable-energy.github.io/website/mahmoud-khalifa/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:53:09 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=573</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=573</guid>
 
 					<description><![CDATA[Joy Ma is a student in the Class of 2024.]]></description>
 										<content:encoded><![CDATA[<p>Joy Ma is a student in the Class of 2024.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/mahmoud-khalifa/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/mahmoud-khalifa/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sarah Pomerantz</title>
-		<link>/mit-renewable-energy/website/mulan-jiang/</link>
-					<comments>/mit-renewable-energy/website/mulan-jiang/#respond</comments>
+		<link>https://mit-renewable-energy.github.io/website/mulan-jiang/</link>
+					<comments>https://mit-renewable-energy.github.io/website/mulan-jiang/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Feb 2022 01:52:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/mit-renewable-energy/website/?p=572</guid>
+		<guid isPermaLink="false">https://mit-renewable-energy.github.io/website/?p=572</guid>
 
 					<description><![CDATA[Sarah Pomerantz is a student in the Class of 2025.]]></description>
 										<content:encoded><![CDATA[<p>Sarah Pomerantz is a student in the Class of 2025.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mit-renewable-energy/website/mulan-jiang/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mit-renewable-energy.github.io/website/mulan-jiang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

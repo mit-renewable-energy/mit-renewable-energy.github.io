@@ -41,7 +41,7 @@
                             
                     </div>
                     <div class="twae-story-info {{{ no_border }}}">              
-                    <div class="twae-timeline-img"><img src="/mit-renewable-energy/website/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>             
+                    <div class="twae-timeline-img"><img src="https://mit-renewable-energy.github.io/website/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>             
                     <span view.getrenderattributestring title_key>{{{ item.twae_story_title}}}</span>
                     <div view.getrenderattributestring description_key>{{{ item.twae_description }}}</div>
                     </div>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0052</td>
-<td bgcolor="#eeeeec" align="right">366728</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">365704</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/wpml/modules/class-wpml-eae-price-table.php" bgcolor="#eeeeec">.../class-wpml-eae-price-table.php<b>:</b>0</td>
 </tr>

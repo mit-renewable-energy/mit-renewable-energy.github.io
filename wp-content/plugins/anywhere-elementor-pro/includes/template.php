@@ -16,21 +16,21 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">364592</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/template.php" bgcolor="#eeeeec">.../template.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">364592</td>
 <td bgcolor="#eeeeec">Aepro\Template::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/template.php" bgcolor="#eeeeec">.../template.php<b>:</b>164</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">364688</td>
 <td bgcolor="#eeeeec">Aepro\Template->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/template.php" bgcolor="#eeeeec">.../template.php<b>:</b>14</td>
