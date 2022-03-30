@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365256</td>
+<td bgcolor="#eeeeec" align="center">0.0033</td>
+<td bgcolor="#eeeeec" align="right">366792</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-sku.php" bgcolor="#eeeeec">.../product-sku.php<b>:</b>0</td>
 </tr>

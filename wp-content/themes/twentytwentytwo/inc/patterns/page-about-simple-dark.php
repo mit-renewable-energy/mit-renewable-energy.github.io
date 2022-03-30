@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364832</td>
+<td bgcolor="#eeeeec" align="center">0.0023</td>
+<td bgcolor="#eeeeec" align="right">365632</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php" bgcolor="#eeeeec">.../page-about-simple-dark.php<b>:</b>0</td>
 </tr>

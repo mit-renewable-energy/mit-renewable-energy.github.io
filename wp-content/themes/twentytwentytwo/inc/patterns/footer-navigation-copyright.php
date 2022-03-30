@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364880</td>
+<td bgcolor="#eeeeec" align="center">0.0048</td>
+<td bgcolor="#eeeeec" align="right">365712</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php" bgcolor="#eeeeec">.../footer-navigation-copyright.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364608</td>
+<td bgcolor="#eeeeec" align="center">0.0052</td>
+<td bgcolor="#eeeeec" align="right">365408</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php" bgcolor="#eeeeec">.../hidden-bird.php<b>:</b>0</td>
 </tr>

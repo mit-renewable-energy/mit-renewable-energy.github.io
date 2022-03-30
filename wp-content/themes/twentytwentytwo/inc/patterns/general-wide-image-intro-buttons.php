@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">365000</td>
+<td bgcolor="#eeeeec" align="center">0.0109</td>
+<td bgcolor="#eeeeec" align="right">365832</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php" bgcolor="#eeeeec">.../general-wide-image-intro-buttons.php<b>:</b>0</td>
 </tr>

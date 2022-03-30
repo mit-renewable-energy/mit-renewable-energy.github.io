@@ -12,8 +12,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365056</td>
+<td bgcolor="#eeeeec" align="center">0.0038</td>
+<td bgcolor="#eeeeec" align="right">365888</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/horizontal-template.php" bgcolor="#eeeeec">.../horizontal-template.php<b>:</b>0</td>
 </tr>
@@ -41,7 +41,7 @@
                             
                     </div>
                     <div class="twae-story-info {{{ no_border }}}">              
-                    <div class="twae-timeline-img"><img src="https://mit-renewable-energy.github.io/website/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>             
+                    <div class="twae-timeline-img"><img src="https://renewable-energy.mit.edu/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>             
                     <span view.getrenderattributestring title_key>{{{ item.twae_story_title}}}</span>
                     <div view.getrenderattributestring description_key>{{{ item.twae_description }}}</div>
                     </div>
