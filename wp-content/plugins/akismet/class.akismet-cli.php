@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0013</td>
-<td bgcolor="#eeeeec" align="right">366232</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">366264</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/akismet/class.akismet-cli.php" bgcolor="#eeeeec">.../class.akismet-cli.php<b>:</b>0</td>
 </tr>

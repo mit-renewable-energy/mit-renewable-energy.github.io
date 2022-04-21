@@ -13,15 +13,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365808</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">365840</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365808</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">365840</td>
 <td bgcolor="#eeeeec">TWAE_feddback\feedback\cool_plugins_feedback::get_instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>189</td>
 </tr>
@@ -41,15 +41,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365808</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">365840</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365808</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">365840</td>
 <td bgcolor="#eeeeec">TWAE_feddback\feedback\cool_plugins_feedback::get_instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>189</td>
 </tr>
@@ -72,22 +72,22 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365808</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">365840</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365808</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">365840</td>
 <td bgcolor="#eeeeec">TWAE_feddback\feedback\cool_plugins_feedback::get_instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>189</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0065</td>
-<td bgcolor="#eeeeec" align="right">366632</td>
+<td bgcolor="#eeeeec" align="center">0.0047</td>
+<td bgcolor="#eeeeec" align="right">366664</td>
 <td bgcolor="#eeeeec">TWAE_feddback\feedback\cool_plugins_feedback->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>26</td>
 </tr>

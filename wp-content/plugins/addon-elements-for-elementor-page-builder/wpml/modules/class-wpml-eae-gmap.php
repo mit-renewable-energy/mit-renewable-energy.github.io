@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0049</td>
-<td bgcolor="#eeeeec" align="right">366408</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
+<td bgcolor="#eeeeec" align="right">366440</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/wpml/modules/class-wpml-eae-gmap.php" bgcolor="#eeeeec">.../class-wpml-eae-gmap.php<b>:</b>0</td>
 </tr>

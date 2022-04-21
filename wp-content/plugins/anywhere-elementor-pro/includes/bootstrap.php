@@ -16,29 +16,29 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364592</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">364624</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364592</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">364624</td>
 <td bgcolor="#eeeeec">Aepro\Plugin::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>139</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364664</td>
+<td bgcolor="#eeeeec" align="right">364696</td>
 <td bgcolor="#eeeeec">Aepro\Plugin->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>20</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364664</td>
+<td bgcolor="#eeeeec" align="right">364696</td>
 <td bgcolor="#eeeeec">Aepro\Plugin->includes(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>28</td>
 </tr>

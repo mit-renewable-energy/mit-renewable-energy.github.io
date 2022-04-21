@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Renewable Energy</title>
+	<title>MIT Renewable Energy Clinic</title>
 	<atom:link href="https://renewable-energy.mit.edu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://renewable-energy.mit.edu/</link>
-	<description>Made Possible by the Science Impact Collaborative</description>
-	<lastBuildDate>Fri, 18 Mar 2022 19:10:45 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Thu, 21 Apr 2022 03:24:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,39 +22,19 @@
 
 <image>
 	<url>https://renewable-energy.mit.edu/wp-content/uploads/2022/02/Logo.svg</url>
-	<title>Renewable Energy</title>
+	<title>MIT Renewable Energy Clinic</title>
 	<link>https://renewable-energy.mit.edu/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Anushree Chaudhuri</title>
-		<link>https://renewable-energy.mit.edu/anushree-chaudhuri/</link>
-					<comments>https://renewable-energy.mit.edu/anushree-chaudhuri/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:57:39 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=586</guid>
-
-					<description><![CDATA[Anushree is an undergraduate student at MIT, studying urban planning with computer science and economics. She&#8217;s interested in bringing a data-focused perspective to environmental policy and social impact. As a native San Diegan with origins in Bengal, India, she grew up with a multi-cultural background that makes her eager to bridge gaps between people of [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Anushree is an undergraduate student at MIT, studying urban planning with computer science and economics. She&#8217;s interested in bringing a data-focused perspective to environmental policy and social impact. As a native San Diegan with origins in Bengal, India, she grew up with a multi-cultural background that makes her eager to bridge gaps between people of diverse identities. Currently, she serves as a Climate Change Scope 3 Fellow at the MIT Office of Sustainability and is excited to be a student researcher with the Science Impact Collaborative. Outside of academics, she&#8217;s co-chair of the Undergraduate Association Committee on Sustainability, a lead of the Student Sustainability Coalition, and plays on the Women&#8217;s Ultimate Frisbee team. In her free time, she loves reading and writing, plant-based cooking, yoga, world music, going on long walks with her dog, and learning new things.</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://renewable-energy.mit.edu/anushree-chaudhuri/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Larry Susskind</title>
 		<link>https://renewable-energy.mit.edu/emma-jung/</link>
 					<comments>https://renewable-energy.mit.edu/emma-jung/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:56:56 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Wed, 20 Apr 2022 00:12:56 +0000</pubDate>
+				<category><![CDATA[PI]]></category>
 		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=585</guid>
 
 					<description><![CDATA[The Principal Investigator is Larry Susskind, Ford Professor of Urban and Environmental Planning in the MIT Department of Urban Studies and Planning and Vice-Chair of the inter-university Program on Negotiation at Harvard Law School. Professor Susskind is well known in the urban and environmental planning fields for his published work on facility siting, collaborative approaches [&#8230;]]]></description>
@@ -72,8 +52,8 @@
 					<comments>https://renewable-energy.mit.edu/grace-pu/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:56:18 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Wed, 20 Apr 2022 00:11:18 +0000</pubDate>
+				<category><![CDATA[Grad Student]]></category>
 		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=584</guid>
 
 					<description><![CDATA[Jungwoo Chun, PhD Candidate in the MIT Department of Urban Studies and Planning, is completing a dissertation investigating the role of intermediaries in mobilizing support for community-based renewable energy projects.]]></description>
@@ -91,8 +71,8 @@
 					<comments>https://renewable-energy.mit.edu/katherine-xiong/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:55:19 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Wed, 20 Apr 2022 00:10:19 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
 		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=582</guid>
 
 					<description><![CDATA[Jess is an undergraduate at MIT, majoring in Physics with a focus in Materials Science and Engineering and minoring in Energy Studies. They are from New York State and have a younger sister. They went to Spackenkill High School where they worked with Dr. Hailiang Wang at Yale University for 3 years on bifunctional catalysis [&#8230;]]]></description>
@@ -105,13 +85,33 @@
 		
 			</item>
 		<item>
+		<title>Anushree Chaudhuri</title>
+		<link>https://renewable-energy.mit.edu/anushree-chaudhuri/</link>
+					<comments>https://renewable-energy.mit.edu/anushree-chaudhuri/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 20 Apr 2022 00:09:39 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
+		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=586</guid>
+
+					<description><![CDATA[Anushree is an undergraduate student at MIT, studying urban planning with computer science and economics. She&#8217;s interested in bringing a data-focused perspective to environmental policy and social impact. As a native San Diegan with origins in Bengal, India, she grew up with a multi-cultural background that makes her eager to bridge gaps between people of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Anushree is an undergraduate student at MIT, studying urban planning with computer science and economics. She&#8217;s interested in bringing a data-focused perspective to environmental policy and social impact. As a native San Diegan with origins in Bengal, India, she grew up with a multi-cultural background that makes her eager to bridge gaps between people of diverse identities. Currently, she serves as a Climate Change Scope 3 Fellow at the MIT Office of Sustainability and is excited to be a student researcher with the Science Impact Collaborative. Outside of academics, she&#8217;s co-chair of the Undergraduate Association Committee on Sustainability, a lead of the Student Sustainability Coalition, and plays on the Women&#8217;s Ultimate Frisbee team. In her free time, she loves reading and writing, plant-based cooking, yoga, world music, going on long walks with her dog, and learning new things.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://renewable-energy.mit.edu/anushree-chaudhuri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Grace Endy</title>
 		<link>https://renewable-energy.mit.edu/kenneth-choi/</link>
 					<comments>https://renewable-energy.mit.edu/kenneth-choi/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:54:26 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Wed, 20 Apr 2022 00:08:26 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
 		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=575</guid>
 
 					<description><![CDATA[Grace Endy is a first-year undergraduate student from Westfield, New Jersey. She attended Westfield High School, where she was president of the Rare Disease Club and a member of the varsity cross country and track and field teams. While in high school, Grace volunteered for KIF1A.ORG, creating videos that helped make information about KIF1A-Associated Neurological [&#8230;]]]></description>
@@ -125,13 +125,13 @@
 		
 			</item>
 		<item>
-		<title>Kanokwan Tungkitkancharoen</title>
+		<title>Kano Tungkitkancharoen</title>
 		<link>https://renewable-energy.mit.edu/kevin-meng/</link>
 					<comments>https://renewable-energy.mit.edu/kevin-meng/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:53:47 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+		<pubDate>Wed, 20 Apr 2022 00:06:47 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
 		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=574</guid>
 
 					<description><![CDATA[Kano is an undergraduate at MIT from Las Vegas, Nevada. She’s studying mechanical engineering and political science. The highlight job of her gap year was serving as the youngest person on the 2020 Nevada Biden Presidential Data Team. At the MIT 2021 Policy Hackathon, Kano&#8217;s team advanced to finals, reaching Top 3. Outside of political [&#8230;]]]></description>
@@ -146,39 +146,77 @@
 		
 			</item>
 		<item>
-		<title>Joy Ma</title>
-		<link>https://renewable-energy.mit.edu/mahmoud-khalifa/</link>
-					<comments>https://renewable-energy.mit.edu/mahmoud-khalifa/#respond</comments>
+		<title>Sarah Pomerantz</title>
+		<link>https://renewable-energy.mit.edu/sarah-pomerantz/</link>
+					<comments>https://renewable-energy.mit.edu/sarah-pomerantz/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:53:09 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=573</guid>
+		<pubDate>Wed, 20 Apr 2022 00:06:22 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
+		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=572</guid>
 
-					<description><![CDATA[Joy Ma is a student in the Class of 2024.]]></description>
-										<content:encoded><![CDATA[<p>Joy Ma is a student in the Class of 2024.</p>
+					<description><![CDATA[Sarah is an undergraduate student from Long Island, New York. She attended Half Hollow Hills High School West, where was president of the Gay Straight Alliance and vice president of FIRST Tech Challenge Robotics Club and their chapter of Mu Alpha Theta. Outside of this project, Sarah is a MedLink in her dorm, Simmons Hall, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Sarah is an undergraduate student from Long Island, New York. She attended Half Hollow Hills High School West, where was president of the Gay Straight Alliance and vice president of FIRST Tech Challenge Robotics Club and their chapter of Mu Alpha Theta. Outside of this project, Sarah is a MedLink in her dorm, Simmons Hall, and is a Freshman Recruitment of Simmons Hall (FROSH) Chair, where she plans Campus Preview Weekend and Residence Exploration Week activities. Sarah is also on the MIT Solar Electric Vehicle Team where she works on the electrical engineering subteam. During her free time, Sarah enjoys spending time with her friends!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://renewable-energy.mit.edu/mahmoud-khalifa/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renewable-energy.mit.edu/sarah-pomerantz/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Sarah Pomerantz</title>
-		<link>https://renewable-energy.mit.edu/mulan-jiang/</link>
-					<comments>https://renewable-energy.mit.edu/mulan-jiang/#respond</comments>
+		<title>Alice Zehner</title>
+		<link>https://renewable-energy.mit.edu/alice-zehner/</link>
+					<comments>https://renewable-energy.mit.edu/alice-zehner/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 01:52:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=572</guid>
+		<pubDate>Wed, 20 Apr 2022 00:05:56 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
+		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=981</guid>
 
-					<description><![CDATA[Sarah Pomerantz is a student in the Class of 2025.]]></description>
-										<content:encoded><![CDATA[<p>Sarah Pomerantz is a student in the Class of 2025.</p>
+					<description><![CDATA[Alice contributed to this project in the fall of 2021.]]></description>
+										<content:encoded><![CDATA[<p>Alice contributed to this project in the fall of 2021.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://renewable-energy.mit.edu/mulan-jiang/feed/</wfw:commentRss>
+					<wfw:commentRss>https://renewable-energy.mit.edu/alice-zehner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wilhem Hector</title>
+		<link>https://renewable-energy.mit.edu/wilhem-hector/</link>
+					<comments>https://renewable-energy.mit.edu/wilhem-hector/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 20 Apr 2022 00:04:18 +0000</pubDate>
+				<category><![CDATA[UROP]]></category>
+		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=984</guid>
+
+					<description><![CDATA[Hector contributed to this project in fall 2021.]]></description>
+										<content:encoded><![CDATA[<p>Hector contributed to this project in fall 2021.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://renewable-energy.mit.edu/wilhem-hector/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chelsea Hodgkins</title>
+		<link>https://renewable-energy.mit.edu/chelsea-hodgkins/</link>
+					<comments>https://renewable-energy.mit.edu/chelsea-hodgkins/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 20 Apr 2022 00:03:38 +0000</pubDate>
+				<category><![CDATA[Grad Student]]></category>
+		<guid isPermaLink="false">https://renewable-energy.mit.edu/?p=988</guid>
+
+					<description><![CDATA[Chelsea contributed to this project from 2020 to the summer of 2021.]]></description>
+										<content:encoded><![CDATA[<p>Chelsea contributed to this project from 2020 to the summer of 2021.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://renewable-energy.mit.edu/chelsea-hodgkins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

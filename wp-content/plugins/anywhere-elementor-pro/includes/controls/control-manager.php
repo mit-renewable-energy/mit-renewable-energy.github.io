@@ -13,22 +13,22 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">364880</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">364912</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/controls/control-manager.php" bgcolor="#eeeeec">.../control-manager.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364880</td>
+<td bgcolor="#eeeeec" align="right">364912</td>
 <td bgcolor="#eeeeec">Aepro\Aepro_Control_Manager::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/controls/control-manager.php" bgcolor="#eeeeec">.../control-manager.php<b>:</b>38</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364936</td>
+<td bgcolor="#eeeeec" align="right">364968</td>
 <td bgcolor="#eeeeec">Aepro\Aepro_Control_Manager->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/controls/control-manager.php" bgcolor="#eeeeec">.../control-manager.php<b>:</b>15</td>
 </tr>
@@ -51,22 +51,22 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">364880</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">364912</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/controls/control-manager.php" bgcolor="#eeeeec">.../control-manager.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364880</td>
+<td bgcolor="#eeeeec" align="right">364912</td>
 <td bgcolor="#eeeeec">Aepro\Aepro_Control_Manager::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/controls/control-manager.php" bgcolor="#eeeeec">.../control-manager.php<b>:</b>38</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">364936</td>
+<td bgcolor="#eeeeec" align="right">364968</td>
 <td bgcolor="#eeeeec">Aepro\Aepro_Control_Manager->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/anywhere-elementor-pro/includes/controls/control-manager.php" bgcolor="#eeeeec">.../control-manager.php<b>:</b>15</td>
 </tr>

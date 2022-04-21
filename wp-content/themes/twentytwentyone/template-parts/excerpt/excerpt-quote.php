@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0062</td>
-<td bgcolor="#eeeeec" align="right">365648</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
+<td bgcolor="#eeeeec" align="right">365680</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentyone/template-parts/excerpt/excerpt-quote.php" bgcolor="#eeeeec">.../excerpt-quote.php<b>:</b>0</td>
 </tr>

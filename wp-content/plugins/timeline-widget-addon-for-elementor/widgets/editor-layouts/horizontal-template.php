@@ -12,8 +12,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0038</td>
-<td bgcolor="#eeeeec" align="right">365888</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">365088</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/horizontal-template.php" bgcolor="#eeeeec">.../horizontal-template.php<b>:</b>0</td>
 </tr>
