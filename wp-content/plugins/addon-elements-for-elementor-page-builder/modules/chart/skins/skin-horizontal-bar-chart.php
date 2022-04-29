@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365800</td>
+<td bgcolor="#eeeeec" align="right">365768</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/chart/skins/skin-horizontal-bar-chart.php" bgcolor="#eeeeec">.../skin-horizontal-bar-chart.php<b>:</b>0</td>
 </tr>

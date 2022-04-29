@@ -11,8 +11,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">366912</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">366880</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-right.php" bgcolor="#eeeeec">.../triangle-bottom-right.php<b>:</b>0</td>
 </tr>
@@ -32,8 +32,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">366912</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">366880</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-right.php" bgcolor="#eeeeec">.../triangle-bottom-right.php<b>:</b>0</td>
 </tr>
@@ -53,8 +53,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">366912</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">366880</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-right.php" bgcolor="#eeeeec">.../triangle-bottom-right.php<b>:</b>0</td>
 </tr>
@@ -74,8 +74,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">366912</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
+<td bgcolor="#eeeeec" align="right">366880</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-right.php" bgcolor="#eeeeec">.../triangle-bottom-right.php<b>:</b>0</td>
 </tr>
