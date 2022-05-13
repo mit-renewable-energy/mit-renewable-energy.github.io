@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366760</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/elementor/data/base/sub-endpoint.php" bgcolor="#eeeeec">.../sub-endpoint.php<b>:</b>0</td>

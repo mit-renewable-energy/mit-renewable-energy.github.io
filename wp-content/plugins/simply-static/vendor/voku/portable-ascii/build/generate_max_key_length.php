@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
 <td bgcolor="#eeeeec" align="right">366648</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/simply-static/vendor/voku/portable-ascii/build/generate_max_key_length.php" bgcolor="#eeeeec">.../generate_max_key_length.php<b>:</b>0</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
 <td bgcolor="#eeeeec" align="right">366648</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/simply-static/vendor/voku/portable-ascii/build/generate_max_key_length.php" bgcolor="#eeeeec">.../generate_max_key_length.php<b>:</b>0</td>

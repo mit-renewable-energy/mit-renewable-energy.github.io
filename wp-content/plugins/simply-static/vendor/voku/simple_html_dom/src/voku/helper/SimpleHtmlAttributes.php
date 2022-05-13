@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
 <td bgcolor="#eeeeec" align="right">367632</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlAttributes.php" bgcolor="#eeeeec">.../SimpleHtmlAttributes.php<b>:</b>0</td>

@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0010</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366744</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php" bgcolor="#eeeeec">.../class-twenty-twenty-one-customize-notice-control.php<b>:</b>0</td>

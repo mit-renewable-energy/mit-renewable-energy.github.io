@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
 <td bgcolor="#eeeeec" align="right">366496</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" bgcolor="#eeeeec">.../html-location-group.php<b>:</b>0</td>
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
 <td bgcolor="#eeeeec" align="right">366496</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" bgcolor="#eeeeec">.../html-location-group.php<b>:</b>0</td>
@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0008</td>
 <td bgcolor="#eeeeec" align="right">366496</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renentest/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" bgcolor="#eeeeec">.../html-location-group.php<b>:</b>0</td>
