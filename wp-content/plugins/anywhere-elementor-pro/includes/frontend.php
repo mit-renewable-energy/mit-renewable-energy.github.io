@@ -23,14 +23,14 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">364704</td>
 <td bgcolor="#eeeeec">Aepro\Frontend::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>691</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">364848</td>
 <td bgcolor="#eeeeec">Aepro\Frontend->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>28</td>

@@ -86,7 +86,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0060</td>
+<td bgcolor="#eeeeec" align="center">0.0058</td>
 <td bgcolor="#eeeeec" align="right">366712</td>
 <td bgcolor="#eeeeec">TWAE_feddback\feedback\cool_plugins_feedback->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/feedback/twae-admin-feedback-form.php" bgcolor="#eeeeec">.../twae-admin-feedback-form.php<b>:</b>26</td>

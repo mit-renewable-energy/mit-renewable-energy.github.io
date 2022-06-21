@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0043</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366880</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNodeBlank.php" bgcolor="#eeeeec">.../SimpleXmlDomNodeBlank.php<b>:</b>0</td>

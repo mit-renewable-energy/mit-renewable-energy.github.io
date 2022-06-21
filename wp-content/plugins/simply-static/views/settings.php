@@ -14,8 +14,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">366056</td>
+<td bgcolor="#eeeeec" align="center">0.0011</td>
+<td bgcolor="#eeeeec" align="right">367560</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/simply-static/views/settings.php" bgcolor="#eeeeec">.../settings.php<b>:</b>0</td>
 </tr>

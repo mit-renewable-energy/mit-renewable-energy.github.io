@@ -30,14 +30,14 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">364864</td>
 <td bgcolor="#eeeeec">Aepro\Aepro->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/aepro.php" bgcolor="#eeeeec">.../aepro.php<b>:</b>34</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
 <td bgcolor="#eeeeec" align="right">364864</td>
 <td bgcolor="#eeeeec">Aepro\Aepro->load_hook_positions(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/aepro.php" bgcolor="#eeeeec">.../aepro.php<b>:</b>55</td>
