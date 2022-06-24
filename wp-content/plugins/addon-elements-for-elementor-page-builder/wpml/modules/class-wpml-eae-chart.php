@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
+<td bgcolor="#eeeeec" align="center">0.0010</td>
 <td bgcolor="#eeeeec" align="right">366552</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/wpml/modules/class-wpml-eae-chart.php" bgcolor="#eeeeec">.../class-wpml-eae-chart.php<b>:</b>0</td>
