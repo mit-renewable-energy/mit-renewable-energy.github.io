@@ -1,10 +1,10 @@
 <br>
 <font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
 <tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Call to undefined function Aepro\Admin\add_action() in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php on line <i>15</i>
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Call to undefined function Aepro\Admin\add_action() in /Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php on line <i>15</i>
 </th></tr>
 <tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Call to undefined function Aepro\Admin\add_action() in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php on line <i>15</i>
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Call to undefined function Aepro\Admin\add_action() in /Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php on line <i>15</i>
 </th></tr>
 <tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
 <tr>
@@ -16,16 +16,16 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365016</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">364792</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php" bgcolor="#eeeeec">.../template-config.php<b>:</b>0</td>
+<td title="/Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php" bgcolor="#eeeeec">.../template-config.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">365072</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">364848</td>
 <td bgcolor="#eeeeec">Aepro\Admin\TemplateConfig->__construct(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php" bgcolor="#eeeeec">.../template-config.php<b>:</b>541</td>
+<td title="/Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/template-config.php" bgcolor="#eeeeec">.../template-config.php<b>:</b>541</td>
 </tr>
 </table></font>

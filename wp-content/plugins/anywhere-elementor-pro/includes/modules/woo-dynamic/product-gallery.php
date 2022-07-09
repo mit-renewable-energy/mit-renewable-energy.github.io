@@ -1,10 +1,10 @@
 <br>
 <font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
 <tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Class 'Elementor\Core\DynamicTags\Data_Tag' not found in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-gallery.php on line <i>10</i>
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Class 'Elementor\Core\DynamicTags\Data_Tag' not found in /Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-gallery.php on line <i>10</i>
 </th></tr>
 <tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Class 'Elementor\Core\DynamicTags\Data_Tag' not found in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-gallery.php on line <i>10</i>
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Class 'Elementor\Core\DynamicTags\Data_Tag' not found in /Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-gallery.php on line <i>10</i>
 </th></tr>
 <tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
 <tr>
@@ -16,9 +16,9 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0009</td>
-<td bgcolor="#eeeeec" align="right">367000</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
+<td bgcolor="#eeeeec" align="right">366904</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-gallery.php" bgcolor="#eeeeec">.../product-gallery.php<b>:</b>0</td>
+<td title="/Users/jesszhc/Local Sites/mit-re-energy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/woo-dynamic/product-gallery.php" bgcolor="#eeeeec">.../product-gallery.php<b>:</b>0</td>
 </tr>
 </table></font>
