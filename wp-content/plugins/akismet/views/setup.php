@@ -17,7 +17,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0049</td>
+<td bgcolor="#eeeeec" align="center">0.0050</td>
 <td bgcolor="#eeeeec" align="right">365296</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/akismet/views/setup.php" bgcolor="#eeeeec">.../setup.php<b>:</b>0</td>

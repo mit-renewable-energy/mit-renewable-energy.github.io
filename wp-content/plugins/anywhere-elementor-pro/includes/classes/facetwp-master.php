@@ -16,21 +16,21 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0055</td>
+<td bgcolor="#eeeeec" align="center">0.0053</td>
 <td bgcolor="#eeeeec" align="right">366560</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0056</td>
+<td bgcolor="#eeeeec" align="center">0.0053</td>
 <td bgcolor="#eeeeec" align="right">366560</td>
 <td bgcolor="#eeeeec">Aepro\AeFacetWP_Integration::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>113</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0056</td>
+<td bgcolor="#eeeeec" align="center">0.0053</td>
 <td bgcolor="#eeeeec" align="right">366616</td>
 <td bgcolor="#eeeeec">Aepro\AeFacetWP_Integration->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>10</td>

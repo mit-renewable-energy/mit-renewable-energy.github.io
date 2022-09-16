@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0048</td>
+<td bgcolor="#eeeeec" align="center">0.0045</td>
 <td bgcolor="#eeeeec" align="right">366576</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" bgcolor="#eeeeec">.../html-location-group.php<b>:</b>0</td>
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0048</td>
+<td bgcolor="#eeeeec" align="center">0.0045</td>
 <td bgcolor="#eeeeec" align="right">366576</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" bgcolor="#eeeeec">.../html-location-group.php<b>:</b>0</td>
@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0048</td>
+<td bgcolor="#eeeeec" align="center">0.0045</td>
 <td bgcolor="#eeeeec" align="right">366576</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" bgcolor="#eeeeec">.../html-location-group.php<b>:</b>0</td>

@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0051</td>
+<td bgcolor="#eeeeec" align="center">0.0048</td>
 <td bgcolor="#eeeeec" align="right">366968</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/wpml/modules/class-wpml-eae-data-table-content.php" bgcolor="#eeeeec">.../class-wpml-eae-data-table-content.php<b>:</b>0</td>
