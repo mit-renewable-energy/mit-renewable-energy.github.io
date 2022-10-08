@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0073</td>
+<td bgcolor="#eeeeec" align="center">0.0084</td>
 <td bgcolor="#eeeeec" align="right">366920</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-field.php" bgcolor="#eeeeec">.../field-group-field.php<b>:</b>0</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0073</td>
+<td bgcolor="#eeeeec" align="center">0.0084</td>
 <td bgcolor="#eeeeec" align="right">366920</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-field.php" bgcolor="#eeeeec">.../field-group-field.php<b>:</b>0</td>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0073</td>
+<td bgcolor="#eeeeec" align="center">0.0084</td>
 <td bgcolor="#eeeeec" align="right">366920</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-field.php" bgcolor="#eeeeec">.../field-group-field.php<b>:</b>0</td>

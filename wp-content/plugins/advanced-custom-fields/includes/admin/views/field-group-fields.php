@@ -20,7 +20,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0062</td>
+<td bgcolor="#eeeeec" align="center">0.0046</td>
 <td bgcolor="#eeeeec" align="right">366120</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-fields.php" bgcolor="#eeeeec">.../field-group-fields.php<b>:</b>0</td>

@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0057</td>
+<td bgcolor="#eeeeec" align="center">0.0041</td>
 <td bgcolor="#eeeeec" align="right">366584</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/elementor/core/experiments/experiments-reporter.php" bgcolor="#eeeeec">.../experiments-reporter.php<b>:</b>0</td>

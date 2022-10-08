@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0028</td>
+<td bgcolor="#eeeeec" align="center">0.0055</td>
 <td bgcolor="#eeeeec" align="right">366824</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php" bgcolor="#eeeeec">.../class-twenty-twenty-one-customize-notice-control.php<b>:</b>0</td>

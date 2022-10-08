@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0049</td>
+<td bgcolor="#eeeeec" align="center">0.0047</td>
 <td bgcolor="#eeeeec" align="right">367008</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-separator.php" bgcolor="#eeeeec">.../class-acf-field-separator.php<b>:</b>0</td>

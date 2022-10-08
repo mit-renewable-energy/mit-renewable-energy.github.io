@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0044</td>
+<td bgcolor="#eeeeec" align="center">0.0053</td>
 <td bgcolor="#eeeeec" align="right">365688</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/themes/twentytwentytwo/inc/patterns/query-irregular-grid.php" bgcolor="#eeeeec">.../query-irregular-grid.php<b>:</b>0</td>

@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0046</td>
+<td bgcolor="#eeeeec" align="center">0.0044</td>
 <td bgcolor="#eeeeec" align="right">367064</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/modules/pods-fields/skins/skin-button-group.php" bgcolor="#eeeeec">.../skin-button-group.php<b>:</b>0</td>
