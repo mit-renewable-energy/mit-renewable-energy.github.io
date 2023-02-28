@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">4</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">365016</td>
 <td bgcolor="#eeeeec">Aepro\Admin\AdminHelper->register_ajax_function(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/admin-helper.php" bgcolor="#eeeeec">.../admin-helper.php<b>:</b>17</td>

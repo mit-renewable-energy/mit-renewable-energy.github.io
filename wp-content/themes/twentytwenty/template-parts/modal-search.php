@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0047</td>
+<td bgcolor="#eeeeec" align="center">0.0005</td>
 <td bgcolor="#eeeeec" align="right">365520</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/themes/twentytwenty/template-parts/modal-search.php" bgcolor="#eeeeec">.../modal-search.php<b>:</b>0</td>

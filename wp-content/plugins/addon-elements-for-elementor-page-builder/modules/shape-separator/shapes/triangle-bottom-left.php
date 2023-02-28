@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0041</td>
+<td bgcolor="#eeeeec" align="center">0.0007</td>
 <td bgcolor="#eeeeec" align="right">366960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-left.php" bgcolor="#eeeeec">.../triangle-bottom-left.php<b>:</b>0</td>
@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0041</td>
+<td bgcolor="#eeeeec" align="center">0.0007</td>
 <td bgcolor="#eeeeec" align="right">366960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-left.php" bgcolor="#eeeeec">.../triangle-bottom-left.php<b>:</b>0</td>
@@ -53,7 +53,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0041</td>
+<td bgcolor="#eeeeec" align="center">0.0007</td>
 <td bgcolor="#eeeeec" align="right">366960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-left.php" bgcolor="#eeeeec">.../triangle-bottom-left.php<b>:</b>0</td>
@@ -74,7 +74,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0041</td>
+<td bgcolor="#eeeeec" align="center">0.0007</td>
 <td bgcolor="#eeeeec" align="right">366960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-left.php" bgcolor="#eeeeec">.../triangle-bottom-left.php<b>:</b>0</td>
@@ -95,7 +95,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0041</td>
+<td bgcolor="#eeeeec" align="center">0.0007</td>
 <td bgcolor="#eeeeec" align="right">366960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-left.php" bgcolor="#eeeeec">.../triangle-bottom-left.php<b>:</b>0</td>
@@ -116,7 +116,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0041</td>
+<td bgcolor="#eeeeec" align="center">0.0007</td>
 <td bgcolor="#eeeeec" align="right">366960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/modules/shape-separator/shapes/triangle-bottom-left.php" bgcolor="#eeeeec">.../triangle-bottom-left.php<b>:</b>0</td>

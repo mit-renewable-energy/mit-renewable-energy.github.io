@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0092</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366704</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/twae-centered-timeline.php" bgcolor="#eeeeec">.../twae-centered-timeline.php<b>:</b>0</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0092</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366704</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/twae-centered-timeline.php" bgcolor="#eeeeec">.../twae-centered-timeline.php<b>:</b>0</td>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0092</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366704</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/twae-centered-timeline.php" bgcolor="#eeeeec">.../twae-centered-timeline.php<b>:</b>0</td>
@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0092</td>
+<td bgcolor="#eeeeec" align="center">0.0006</td>
 <td bgcolor="#eeeeec" align="right">366704</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/twae-centered-timeline.php" bgcolor="#eeeeec">.../twae-centered-timeline.php<b>:</b>0</td>

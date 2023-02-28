@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0078</td>
+<td bgcolor="#eeeeec" align="center">0.0009</td>
 <td bgcolor="#eeeeec" align="right">366920</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/freemius/templates/partials/network-activation.php" bgcolor="#eeeeec">.../network-activation.php<b>:</b>0</td>
