@@ -16,21 +16,21 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">364960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/admin-helper.php" bgcolor="#eeeeec">.../admin-helper.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">364960</td>
 <td bgcolor="#eeeeec">Aepro\Admin\AdminHelper::instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/admin-helper.php" bgcolor="#eeeeec">.../admin-helper.php<b>:</b>472</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">365016</td>
 <td bgcolor="#eeeeec">Aepro\Admin\AdminHelper->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/admin/admin-helper.php" bgcolor="#eeeeec">.../admin-helper.php<b>:</b>11</td>

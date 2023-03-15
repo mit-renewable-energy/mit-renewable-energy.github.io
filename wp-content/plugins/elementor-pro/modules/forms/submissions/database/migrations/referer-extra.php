@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
+<td bgcolor="#eeeeec" align="center">0.0010</td>
 <td bgcolor="#eeeeec" align="right">367064</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/elementor-pro/modules/forms/submissions/database/migrations/referer-extra.php" bgcolor="#eeeeec">.../referer-extra.php<b>:</b>0</td>

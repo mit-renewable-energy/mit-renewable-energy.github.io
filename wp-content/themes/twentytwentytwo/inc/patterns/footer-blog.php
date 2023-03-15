@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="center">0.0010</td>
 <td bgcolor="#eeeeec" align="right">365560</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php" bgcolor="#eeeeec">.../footer-blog.php<b>:</b>0</td>

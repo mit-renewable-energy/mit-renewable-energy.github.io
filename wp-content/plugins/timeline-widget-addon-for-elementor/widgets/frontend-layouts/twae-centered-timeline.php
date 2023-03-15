@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
+<td bgcolor="#eeeeec" align="center">0.0011</td>
 <td bgcolor="#eeeeec" align="right">367528</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/frontend-layouts/twae-centered-timeline.php" bgcolor="#eeeeec">.../twae-centered-timeline.php<b>:</b>0</td>

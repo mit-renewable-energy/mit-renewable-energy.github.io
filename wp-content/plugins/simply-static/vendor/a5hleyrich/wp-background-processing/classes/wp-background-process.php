@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
 <td bgcolor="#eeeeec" align="right">367256</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php" bgcolor="#eeeeec">.../wp-background-process.php<b>:</b>0</td>

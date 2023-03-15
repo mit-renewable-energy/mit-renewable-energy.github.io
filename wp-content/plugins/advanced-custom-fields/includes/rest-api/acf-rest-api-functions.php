@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
 <td bgcolor="#eeeeec" align="right">365032</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/advanced-custom-fields/includes/rest-api/acf-rest-api-functions.php" bgcolor="#eeeeec">.../acf-rest-api-functions.php<b>:</b>0</td>

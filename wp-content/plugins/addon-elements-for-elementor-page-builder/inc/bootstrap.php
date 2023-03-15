@@ -16,21 +16,21 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">365024</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/inc/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">365024</td>
 <td bgcolor="#eeeeec">WTS_EAE\Plugin::get_instance(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/inc/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>492</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
 <td bgcolor="#eeeeec" align="right">365128</td>
 <td bgcolor="#eeeeec">WTS_EAE\Plugin->__construct(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/addon-elements-for-elementor-page-builder/inc/bootstrap.php" bgcolor="#eeeeec">.../bootstrap.php<b>:</b>21</td>

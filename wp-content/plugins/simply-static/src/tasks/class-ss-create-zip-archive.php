@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0005</td>
 <td bgcolor="#eeeeec" align="right">365616</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php" bgcolor="#eeeeec">.../class-ss-create-zip-archive.php<b>:</b>0</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0005</td>
 <td bgcolor="#eeeeec" align="right">365616</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php" bgcolor="#eeeeec">.../class-ss-create-zip-archive.php<b>:</b>0</td>
@@ -55,7 +55,7 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="center">0.0005</td>
 <td bgcolor="#eeeeec" align="right">365616</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php" bgcolor="#eeeeec">.../class-ss-create-zip-archive.php<b>:</b>0</td>
