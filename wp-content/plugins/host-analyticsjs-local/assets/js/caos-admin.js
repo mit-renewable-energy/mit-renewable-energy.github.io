@@ -110,20 +110,9 @@ jQuery(document).ready(function ($) {
          * Toggle Service Provider options.
          */
         toggle_service_provider: function () {
-            option_value = $(this).val();
-            $ga_options = $('.google_analytics_options');
-            $pa_options = $('.plausible_analytics_options');
+            caos_admin.show_loader();
 
-            switch (option_value) {
-                case 'google_analytics':
-                    $ga_options.show();
-                    $pa_options.hide();
-                    break;
-                case 'plausible':
-                    $pa_options.show();
-                    $ga_options.hide();
-                    break;
-            }
+            document.querySelector('input[type="submit"]').click();
         },
 
         /**
@@ -156,24 +145,32 @@ jQuery(document).ready(function ($) {
          * Update Anonymize IP mode example, based on selection.
          */
         update_aip_example: function () {
-            mask = '0';
-            default_3 = '178';
-            default_4 = '123';
-            $octet_3 = $('.caos-aip-example .third-octet');
-            $octet_4 = $('.caos-aip-example .fourth-octet');
+            $octets = $('.caos-aip-example .octet');
 
             switch (this.value) {
                 case '':
-                    $octet_3.text(default_3);
-                    $octet_4.text(default_4);
+                    $octets[0].textContent = '192';
+                    $octets[1].textContent = '168';
+                    $octets[2].textContent = '178';
+                    $octets[3].textContent = '1';
                     break;
                 case 'one':
-                    $octet_3.text(default_3);
-                    $octet_4.text(mask);
+                    $octets[0].textContent = '192';
+                    $octets[1].textContent = '168';
+                    $octets[2].textContent = '178';
+                    $octets[3].textContent = '0';
                     break;
                 case 'two':
-                    $octet_3.text(mask);
-                    $octet_4.text(mask);
+                    $octets[0].textContent = '192';
+                    $octets[1].textContent = '168';
+                    $octets[2].textContent = '0';
+                    $octets[3].textContent = '0';
+                    break;
+                case 'all':
+                    $octets[0].textContent = '1';
+                    $octets[1].textContent = '0';
+                    $octets[2].textContent = '0';
+                    $octets[3].textContent = '0';
                     break;
             }
         },
@@ -216,6 +213,13 @@ jQuery(document).ready(function ($) {
             } else {
                 $optimize_id.hide();
             }
+        },
+
+        /**
+         *
+         */
+        show_loader: function () {
+            $('#wpwrap').append('<div class="caos-loading"><span class="spinner is-active"></span></div>');
         }
     };
 

@@ -1,38 +1,7 @@
 <br>
-<font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
-<tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Call to undefined function Aepro\add_action() in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php on line <i>16</i>
-</th></tr>
-<tr><th align="left" bgcolor="#f57900" colspan="5">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Call to undefined function Aepro\add_action() in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php on line <i>16</i>
-</th></tr>
-<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
-<tr>
-<th align="center" bgcolor="#eeeeec">#</th>
-<th align="left" bgcolor="#eeeeec">Time</th>
-<th align="left" bgcolor="#eeeeec">Memory</th>
-<th align="left" bgcolor="#eeeeec">Function</th>
-<th align="left" bgcolor="#eeeeec">Location</th>
-</tr>
-<tr>
-<td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">366560</td>
-<td bgcolor="#eeeeec">{main}(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>0</td>
-</tr>
-<tr>
-<td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">366560</td>
-<td bgcolor="#eeeeec">Aepro\AeFacetWP_Integration::instance(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>113</td>
-</tr>
-<tr>
-<td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">366616</td>
-<td bgcolor="#eeeeec">Aepro\AeFacetWP_Integration->__construct(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php" bgcolor="#eeeeec">.../facetwp-master.php<b>:</b>10</td>
-</tr>
-</table></font>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function Aepro\add_action() in /Users/ernestogomez/Local Sites/renewable-energy-clinic/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php:16
+Stack trace:
+#0 /Users/ernestogomez/Local Sites/renewable-energy-clinic/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php(10): Aepro\AeFacetWP_Integration-&gt;__construct()
+#1 /Users/ernestogomez/Local Sites/renewable-energy-clinic/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php(113): Aepro\AeFacetWP_Integration::instance()
+#2 {main}
+  thrown in <b>/Users/ernestogomez/Local Sites/renewable-energy-clinic/app/public/wp-content/plugins/anywhere-elementor-pro/includes/classes/facetwp-master.php</b> on line <b>16</b><br>

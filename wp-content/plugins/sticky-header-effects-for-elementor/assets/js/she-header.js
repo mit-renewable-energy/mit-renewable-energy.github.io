@@ -15,9 +15,9 @@ HEADER EFFECTS
 function sheHeader() {
 		
 	var header = $j('.she-header-yes'),
-		container = $j('.she-header-yes .elementor-container'),
+		container = $j('.she-header-yes .elementor-container, .she-header-yes.e-container'),
 		header_elementor = $j('.elementor-edit-mode .she-header-yes'),
-		header_logo = $j('.she-header-yes .elementor-widget-theme-site-logo img, .she-header-yes .elementor-widget-image img'),
+		header_logo = $j('.she-header-yes .elementor-widget-theme-site-logo .elementor-image, .she-header-yes .elementor-widget-image .elementor-image'),
 		data_settings = header.data('settings');
 						
 	if ( typeof data_settings != 'undefined' ) {
@@ -38,8 +38,6 @@ function sheHeader() {
 	var enabled = "mobile";
 	}
 	}
-	
-	console.log($j.inArray(enabled, responsive_settings));
 	
 	if ($j.inArray(enabled, responsive_settings)!='-1') {
 								
@@ -70,81 +68,6 @@ function sheHeader() {
 	if(transparent_header == "yes" ){
 		header.addClass('she-header-transparent-yes');
 	}
-																
-	// header height shrink
-	if( typeof data_height != 'undefined' && data_height) {
-	if( width >= 1025 ) {
-		var shrink_height = data_height["size"];
-	}else if (width  > 767 && width < 1025  ) {
-		var shrink_height = data_height_tablet["size"];
-		if(shrink_height == ''){
-		   shrink_height = data_height["size"];
-		}
-	}else if (width <= 767 ) {
-		var shrink_height = data_height_mobile["size"];
-		if(shrink_height == ''){
-		   shrink_height = data_height["size"];
-		}
-	}
-	}
-
-	// logo height shrink
-							
-	if( typeof data_logo_height != 'undefined' && data_logo_height) {
-		if( width >= 1025 ) {
-						
-			var shrink_logo_height = data_logo_height["size"];
-			if(shrink_logo_height == ''){
-				shrink_logo_height = shrink_height;
-				
-				var percent = parseInt(shrink_logo_height)/parseInt(header_height),
-				width = logo_width*percent,
-				height = logo_height*percent;
-			}else{
-				width = logo_width*shrink_logo_height/100,
-				height = logo_height*shrink_logo_height/100;
-			}
-								
-		}else if (width  > 767 && width < 1025  ) {
-								
-			var shrink_logo_height = data_logo_height_tablet["size"];
-			if(shrink_logo_height == ''){
-				shrink_logo_height = data_logo_height["size"];
-				if(shrink_logo_height == ''){
-					shrink_logo_height = shrink_height;
-					
-					var percent = parseInt(shrink_logo_height)/parseInt(header_height),
-					width = logo_width*percent,
-					height = logo_height*percent;
-				}else{
-					width = logo_width*shrink_logo_height/100,
-					height = logo_height*shrink_logo_height/100;
-					
-				}
-			}
-			
-								
-		}else if (width <= 767 ) {
-								
-			var shrink_logo_height = data_logo_height_mobile["size"];
-			if(shrink_logo_height == ''){
-				shrink_logo_height = data_logo_height["size"];
-				if(shrink_logo_height == ''){
-					shrink_logo_height = shrink_height;
-				
-					var percent = parseInt(shrink_logo_height)/parseInt(header_height),
-					width = logo_width*percent,
-					height = logo_height*percent;
-				}else{
-					width = logo_width*shrink_logo_height/100,
-					height = logo_height*shrink_logo_height/100;
-				}
-			}
-			
-			
-
-		}
-		}
 							
 		// border bottom
 		if( typeof bottom_border_width != 'undefined' && bottom_border_width) {
@@ -187,12 +110,7 @@ function sheHeader() {
 				
 				if( shrink_header == "yes" ) {
 					header.css({"padding-top":"0", "padding-bottom":"0", "margin-top":"0", "margin-bottom":"0"});
-					container.css({"min-height": shrink_height, "transition": "all 0.4s ease-in-out", "-webkit-transition": "all 0.4s ease-in-out", "-moz-transition": "all 0.4s ease-in-out"});
-										
-				}
-										
-				if( shrink_logo == "yes" ) {
-					header_logo.css({"width": width, "transition": "all 0.4s ease-in-out", "-webkit-transition": "all 0.4s ease-in-out", "-moz-transition": "all 0.4s ease-in-out"});
+					container.css({"min-height": data_height, "transition": "all 0.4s ease-in-out", "-webkit-transition": "all 0.4s ease-in-out", "-moz-transition": "all 0.4s ease-in-out"});
 										
 				}
 				
@@ -217,9 +135,6 @@ function sheHeader() {
 					if( shrink_header == "yes" ) {
 						header.css({"padding-top":"", "padding-bottom":"", "margin-top":"", "margin-bottom":""});
 						container.css("min-height", "");
-					}
-					if( shrink_logo == "yes" ) {
-						header_logo.css({"height":"", "width":""});
 					}
 					if( change_logo_color == "yes" ) {
 					header_logo.removeClass("change-logo-color");

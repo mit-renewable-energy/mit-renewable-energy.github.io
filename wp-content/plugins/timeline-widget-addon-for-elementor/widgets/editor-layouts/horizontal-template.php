@@ -1,57 +1,98 @@
-<div id="twae-horizontal-wrapper" class="twae-wrapper twae-horizontal swiper-container" dir="<br />
-<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
-<tr><th align='left' bgcolor='#f57900' colspan=">
-<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Notice: Undefined variable: dir in /Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/horizontal-template.php on line <i>1</i>
-<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
-<tr>
-<th align="center" bgcolor="#eeeeec">#</th>
-<th align="left" bgcolor="#eeeeec">Time</th>
-<th align="left" bgcolor="#eeeeec">Memory</th>
-<th align="left" bgcolor="#eeeeec">Function</th>
-<th align="left" bgcolor="#eeeeec">Location</th>
-</tr>
-<tr>
-<td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0012</td>
-<td bgcolor="#eeeeec" align="right">366032</td>
-<td bgcolor="#eeeeec">{main}(  )</td>
-<td title="/Users/anushreechaudhuri/Local Sites/renewableenergy/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/horizontal-template.php" bgcolor="#eeeeec">.../horizontal-template.php<b>:</b>0</td>
-</tr>
+# 
+var widgetId=elementorCommon.helpers.getUniqueId();
+var slideToShow=settings.twae_slides_to_show;
+var slideHeight=settings.twae_slides_height;
 
-" data-slidestoshow = "{{{sidesToShow}}}"  data-autoplay="{{{autoplay}}}">
-    <div class="twae-horizontal-timeline swiper-wrapper">
-        
-            <div class="swiper-slide {{{sidesHeight}}}">	
-                
-                
-                        <div class="twae-year-container">
-                            <span view.getrenderattributestring year_key>{{{ item.twae_year }}}</span>
+if(settings.twae_icon_position.size >= 1 && settings.twae_icon_position.size < 40){
+    twae_icon_position='twae-position-40-minus';
+}else if(settings.twae_icon_position.size > 50 && settings.twae_icon_position.size <= 60){
+    twae_icon_position='twae-position-50-60';
+}else if(settings.twae_icon_position.size > 60){
+    twae_icon_position='twae-position-60-plus';
+}else{
+    twae_icon_position='twae-position-40-50';
+}
+
+
+#>
+
+<div id="twae-wrapper-{{{widgetId}}}" class="twae-wrapper twae-horizontal-timeline">
+<div class="twae-wrapper-inside">
+    <div class="twae-slider-container swiper-container" data-dir="<br />
+<b>Warning</b>:  Undefined variable $dir in <b>/Users/ernestogomez/Local Sites/renewable-energy-clinic/app/public/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/horizontal-template.php</b> on line <b>20</b><br />
+" data-slidestoshow="{{{slideToShow}}}" data-autoplay="{{{autoplay}}}">
+
+    <div class="twae-slider-wrapper swiper-wrapper {{{slideHeight}}}">
+    <#
+        _.each( settings.twae_list, function( item, index ) {
+            var timeline_image = {
+                id: item.twae_image.id,
+                url: item.twae_image.url,
+                size: item.twae_thumbnail_size,
+                dimension: item.twae_thumbnail_custom_dimension,
+                model: view.getEditModel()
+            };
+            var image_url = elementor.imagesManager.getImageUrl( timeline_image );
+           
+            var year_key = view.getRepeaterSettingKey( 'twae_year', 'twae_list',index ),
+            date_label_key = view.getRepeaterSettingKey( 'twae_date_label', 'twae_list',index ),
+            extra_label_key = view.getRepeaterSettingKey( 'twae_extra_label', 'twae_list',index ),
+            title_key = view.getRepeaterSettingKey( 'twae_story_title', 'twae_list',index ),
+            description_key = view.getRepeaterSettingKey( 'twae_description', 'twae_list',index );
+
+            var iconType = item.twae_icon_type!=="undefined"?item.twae_icon_type:'icon';
+            #>
+            
+            <div class="swiper-slide twae-repeater-item twae-story {{{twae_icon_position}}}">	
+            <div class="twae-story-line"></div>
+            <#
+             if(item.twae_show_year_label == 'yes'){
+                        #>
+                        <div class="twae-year twae-year-container">
+                            <div class="twae-year-label twae-year-text">{{{ item.twae_year }}}</div>
                         </div>
-                        
-                    <div class="twae-label-extra-label"><div>
-                        <span view.getrenderattributestring date_label_key>{{{ item.twae_date_label }}}</span>
-                        <span view.getrenderattributestring extra_label_key>{{{ item.twae_extra_label }}}</span>
-                    </div></div>		
+                <# }#>
+                   
+                    <div class="twae-labels">
+                        <div class="twae-label-big">{{{ item.twae_date_label }}}</div>
+                       
+                        <# if(extra_label_key!=="undefined")
+                        { #>
+                        <div class="twae-label-small">{{{ item.twae_extra_label }}}</div>
+                        <# } #>
+
+                    </div>	
+                    <div class="twae-arrow"></div>	
+                    <# if (iconType =='icon' ) { #>
                     <div class="twae-icon">
-                        
-                            {{{ twaeiconHTML.value }}}
-                        
-                            <i class="{{ item.twae_story_icon.value }}" aria-hidden="true"></i>
-                        
-                            
-                    </div>
-                    <div class="twae-story-info {{{ no_border }}}">              
-                    <div class="twae-timeline-img"><img src="https://renewable-energy.mit.edu/wp-content/plugins/timeline-widget-addon-for-elementor/widgets/editor-layouts/{{{ image_url }}}"></div>             
-                    <span view.getrenderattributestring title_key>{{{ item.twae_story_title}}}</span>
-                    <div view.getrenderattributestring description_key>{{{ item.twae_description }}}</div>
+                      <# 
+                      twae_iconHTML = elementor.helpers.renderIcon( view, item.twae_story_icon, { 'aria-hidden': true }, 'i' , 'object' );
+                        if (twae_iconHTML.rendered ) { #>
+                            {{{ twae_iconHTML.value }}}
+                        <# } else { #>
+                            <i aria-hidden="true" class="far fa-clock"></i>
+                        <# } #> 
+                      </div>
+                    <# }else{ #>
+                         <div class="twae-icondot"></div>
+                        <# } #>
+
+                    <div class="twae-content">
+                    <# if( item.twae_media == 'image' && image_url!=''){ #>          
+                        <div class="twae-media  {{{timeline_image.size}}}"><img src="{{{ image_url }}}"></div>
+                    <# } #>            
+                        <div class="twae-title">{{{ item.twae_story_title}}}</div>
+                        <div class="twae-description">{{{ item.twae_description }}}</div>
                     </div>
             </div>
-            
+<# }); #>
     </div>
+</div>
+</div>
     <!-- Add Pagination -->        
-    <div class="twae-pagination"></div>
     <!-- Add Arrows -->
-    
-    <div class="twae-button-prev twae-icon-left-open-big"></div>
-    <div class="twae-button-next twae-icon-right-open-big"></div>
+            <div class="twae-button-prev"><i class="fas fa-chevron-left"></i></div>
+            <div class="twae-button-next"><i class="fas fa-chevron-right"></i></div>
+            <div class="twae-h-line"></div>
+            <div class="twae-line-fill"></div>
 </div>

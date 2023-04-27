@@ -4,9 +4,9 @@ Contributors: rwattner, dgovea
 Donate Link: https://www.paypal.me/StickyHeaderEffects
 Tags: Elementor, Elementor Page Builder, Elements, Elementor Add-ons, Add-ons, Page Builder, Widgets, Briefcasewp
 Requires at least: 4.9.0
-Tested up to: 5.8
-Requires PHP: 5.4
-Stable tag: 1.4.7
+Tested up to: 6.2
+Requires PHP: 7.0
+Stable tag: 1.6.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,15 +46,22 @@ This plugin is meant to be an add-on to Elementor Pro page builder as it's not a
 == Installation ==
 
 = Minimum Requirements =
-* WordPress 4.9 or greater
-* PHP version 5.4 or greater
-* MySQL version 5.0 or greater
+* WordPress 5.0 or greater
+* PHP version 7.0 or greater
+* MySQL version 5.6 or greater
 
 = Installation Instructions =
-- Make sure that you have installed Elementor Pro Page Builder. This is not a stand-alone plugin and ONLY works with Elementor Pro.
-- Install the plugin through the WordPress plugins screen directly or download the plugin and upload it to the plugin folder: /wp-content/plugins/.
-- Activate the plugin through the installation screen or the "Plugins" screen in WordPress
-- You can find Sticky Header Options for Elementor under a sections "Advanced" tab, directly under "Sticky Effect".
+
+- Make sure that you have installed Elementor Free and Elementor Pro Page Builder. This is not a stand-alone plugin and ONLY works with Elementor Pro.
+
+https://www.youtube.com/watch?v=Ypn6fltn_7s
+
+1. Install using the WordPress built-in Plugin installer, or Extract the zip file and drop the contents in the `wp-content/plugins/` directory of your WordPress installation.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to Pages > Add New
+4. Press the 'Edit with Elementor' button.
+5. Add a header section or container.
+6. Now you can find 'Sticky Header Effects' option under the section's or container's 'Advanced' tab.
 
 == Frequently Asked Questions ==
 
@@ -91,28 +98,86 @@ Sticky Header Options for Elementor is light-weight and you can also use only th
 
 == Changelog ==
 
+= 1.6.5 =
+- Tweaked: Logo transition CSS for image widget
+- Tweaked: Logo color CSS for image widget
+- Maintenance: Wordpress 6.2 compatibility update
+
+= 1.6.4 =
+- Fixed: Js bug
+- Fixed: Logo color not changing on scroll
+- Fixed: CSS for smooth transitions
+- Konwn Bugs: Shrink logo/header
+
+= 1.6.3 =
+- Reverted to 1.5.5 only with container compatibility
+
+= 1.6.2 =
+- Fixed: Section height bug
+
+= 1.6.1 =
+- Fixed: Js bug
+- Fixed: Container shrink bug
+
+= 1.6 =
+- Fixed: Shrinking Logo bug
+- Fixed: Container support using Elementor free
+- Fixed: Logo color change set to none doesn't remove CSS filter settings
+- Added: Disable/enable completely transparent header
+- Tweak: Changed logo color settings to be more clear 
+- Maintenence: Optimized CSS for v2.0
+- Maintenence: Optimized JavaScript for v2.0
+- Maintenence: Optimized Elementor controls for v2.0
+
+= 1.5.5 =
+- Fixed: Shrinking Logo bug
+- Fixed: Header section top position
+- Maintenence: Optimized CSS code
+
+= 1.5.4 =
+- Fixed: Shrinking Logo bug
+
+= 1.5.3 =
+- Fixed: Gap above mobile header bug
+
+= 1.5.2 =
+- Fixed: Gap above header bug
+
+= 1.5.1 =
+- Fixed: Wordpress admin bar bug
+
+= 1.5 =
+- Fixed: Gap above header bug
+
+= 1.4.9 =
+- Added: Compatibility with Elementor Containers
+- Maintenance: Wordpress 6.0 compatibility update
+
+= 1.4.8 =
+- Maintenance: Wordpress 5.9 compatibility update
+
 = 1.4.7 =
-Fixed: Misc Bugs
+- Fixed: Misc Bugs
 
 = 1.4.6 =
-Fixed: Hide header bug
+- Fixed: Hide header bug
 
 = 1.4.5 =
-Fixed: WP admin bar bug
+- Fixed: WP admin bar bug
 
 = 1.4.4 =
-Maintenance: Wordpress 5.8 compatibility update
-Fixed: Header width bug
-Update: Better responsive Worspress admin bar handling
+- Maintenance: Wordpress 5.8 compatibility update
+- Fixed: Header width bug
+- Update: Better responsive Worspress admin bar handling
 
 = 1.4.3 =
-Fixed: Full color logo after scroll bug
+- Fixed: Full color logo after scroll bug
 
 = 1.4.2 =
-Fixed: Bugs
+- Fixed: Bugs
 
 = 1.4.1 =
-Fixed: Gap above header bug
+- Fixed: Gap above header bug
 
 = 1.4.0 =
 - Added: Wordpress 5.5 compatibility
@@ -170,6 +235,57 @@ Fixed: Gap above header bug
 - Initial stable release
 
 == Upgrade Notice ==
+
+= 1.6.5 =
+- Tweaked: Logo transition CSS for image widget
+- Tweaked: Logo color CSS for image widget
+- Maintenance: Wordpress 6.2 compatibility update
+
+= 1.6.4 =
+- Fixed: Js bug
+- Fixed: Logo color not changing on scroll
+- Fixed: CSS for smooth transitions
+- Konwn Bugs: Shrink logo/header
+
+= 1.6.3 =
+This is identical to v1.5.5 only with container compatibility.
+
+= 1.6.2 =
+The 1.6 update includes some substantial changes.
+**Some settings may need to be re-applied to continue to work properly.**
+
+= 1.6 =
+**Heads up, Please backup before updating!**
+
+The latest update includes some substantial changes. We highly recommend you backup your site before upgrading, and make sure you first update in a staging environment.
+**Some settings may need to be re-applied to continue to work properly.**
+
+= 1.5.5 =
+Fixed: Shrinking Logo bug
+Fixed: Header section top position
+Maintenence: Optimized CSS code
+
+= 1.5.4 =
+Fixed: Shrinking Logo bug
+
+= 1.5.3 =
+Fixed: Gap above mobile header bug
+
+= 1.5.2 =
+Fixed: Gap above header bug
+
+= 1.5.1 =
+Fixed: Wordpress admin bar bug
+
+= 1.5 =
+Fixed: Gap above header bug
+
+= 1.4.9 =
+Added: Compatibility with Elementor Containers
+Maintenance: Wordpress 6.0 compatibility update
+
+= 1.4.8 =
+Maintenance: Wordpress 5.9 compatibility update
 
 = 1.4.7 =
 Fixed: Misc Bugs

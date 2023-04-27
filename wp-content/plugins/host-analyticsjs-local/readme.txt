@@ -2,8 +2,8 @@
 Contributors: DaanvandenBergh
 Tags: analytics, host, locally, ga, gtag, analytics, woocommerce, gdpr, cookie notice, leverage browser cache, minimize external requests
 Requires at least: 4.6
-Tested up to: 6.0
-Stable tag: 4.4.0
+Tested up to: 6.1
+Stable tag: 4.5.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,10 +20,10 @@ Whenever you run an analysis of your website on *Google Pagespeed Insights*, *Pi
 
 Just install the plugin, enter your Tracking-ID and the plugin adds the necessary Tracking Code for Google Analytics to the header (or footer) of your theme, downloads and saves the analytics.js/gtag.js-file to your website's server and keeps it updated (automagically) using a scheduled script in wp_cron(). Or if you'd like to use the locally hosted file with another plugin, check **Compatibility Mode** under *Advanced Settings*, Either way, CAOS is a set and forget plugin.
 
-For more information: [How to setup CAOS](For more information: [How to setup CAOS](https://ffw.press/docs/caos/?utm_source=wordpress&utm_medium=description&utm_campaign=caos).
+For more information: [How to setup CAOS](For more information: [How to setup CAOS](https://daan.dev/docs/caos/?utm_source=wordpress&utm_medium=description&utm_campaign=caos).
 
 == Features ==
-- Host analytics.js or gtag.js locally ([What's the difference?](https://ffw.press/blog/wordpress/difference-analyics-gtag-ga-js/?utm_source=wordpress&utm_medium=description&utm_campaign=caos)),
+- Host analytics.js or gtag.js locally ([What's the difference?](https://daan.dev/blog/wordpress/difference-analyics-gtag-ga-js/?utm_source=wordpress&utm_medium=description&utm_campaign=caos)),
 - Downloaded files are renamed to random strings to avoid ad blockers,
 - Compatibility Mode allows you to use the locally hosted file with all Google Analytics plugins, e.g.
   - MonsterInsights (Pro),
@@ -52,7 +52,7 @@ For more information: [How to setup CAOS](For more information: [How to setup CA
 - Serve analytics.js/gtag.js from your CDN,
 - Set Cookie Expiry Period,
 - Set Site Speed Sample Rate,
-- Set [Adjusted Bounce Rate](https://ffw.press/blog/wordpress/adjusted-bounce-rate-caos/?utm_source=wordpress&utm_medium=description&utm_campaign=caos),
+- Set [Adjusted Bounce Rate](https://daan.dev/blog/wordpress/adjusted-bounce-rate-caos/?utm_source=wordpress&utm_medium=description&utm_campaign=caos),
 - Change enqueue order (prioritize order of loaded scripts),
 - Enable Enhanced Link Attribution (linkid.js),
 - Force disabling display features functionalities,
@@ -61,7 +61,7 @@ For more information: [How to setup CAOS](For more information: [How to setup CA
 - Endlessly extensible for developers by using the integrated filters and available mini plugins.
 
 == Features in CAOS Pro ==
-Use Google Analytics in [compliance with GDPR](https://ffw.press/blog/wordpress/gdpr-compliance-google-analytics/?utm_source=wordpress&utm_medium=description&utm_campaign=caos) with:
+Use Google Analytics in [compliance with GDPR](https://daan.dev/blog/wordpress/gdpr-compliance-google-analytics/?utm_source=wordpress&utm_medium=description&utm_campaign=caos) with:
 - Cookieless Analytics (which grants a fresh, untraceable UUID/ClientID to each visitor),
 - True IP anonymization (which anonymizes the last 2 octets of your user's IP address, e.g. 192.168.0.0 *before* sending it to Google Analytics),
 - Stealth Mode (a unique, customized API, designed for WordPress, which anonymizes your visitor's data before sending it overseas, i.e. the US).
@@ -79,13 +79,39 @@ Other features:
 
 == Frequently Asked Questions ==
 
-For CAOS' FAQ and Troubleshooting, [visit the docs](https://ffw.press/docs/caos-troubleshooting/).
+For CAOS' FAQ and Troubleshooting, [visit the docs](https://daan.dev/docs/caos-troubleshooting/).
 
 == Screenshots ==
 
 N/A
 
 == Changelog ==
+
+= 4.5.0 | March 3rd, 2023 =
+* Fixed: filemtime() stat failed for /wp-content/uploads/caos/analytic.js bug
+* Removed: change enqueue order option, because it was rendered useless years ago
+* Improved: all options are now always displayed and show a clear explanation if they're disabled due to configuration.
+* Added: Increase GDPR Compliance (Pro) promotional option.
+* Added: Google Analytics 4's Consent Mode compatibility to Allow Tracking When-option. 
+
+= 4.4.5 | September 29th, 2022 =
+* Fixed: Bug in Minimal Analytics GA4 when Stealth Mode was enabled.
+
+= 4.4.4 | September 22nd, 2022 =
+* Fixed: preconnect header shouldn't be added if Compatibility Mode is on.
+* Fixed: rewrite new endpoints for GA4 when Dual Tracking is enabled.
+* Fixed: Minify Minimal Analytics code (Damn auto-format!)
+
+= 4.4.3 | August 3rd, 2022 =
+* Fixed: explicitly check if CAOS::get_current_file_key() exists to prevent "undefined method" uncaught error.
+
+= 4.4.2 | August 2nd, 2022 =
+* Fixed: prevent warnings when updating downloaded tracking scripts directly after updating the plugin.
+* Fixed: show proper file update notice when using Plausible Analytics.
+* Fixed: updated signature in Help-tab to Daan.dev logo.
+
+= 4.4.1 | June 28th, 2022 =
+* Fixed: updated links from ffw.press to daan.dev after the migration.
 
 = 4.4.0 | June 14th, 2022 =
 * Added: Plausible Analytics support
@@ -159,7 +185,7 @@ N/A
 
 = 4.2.0 | January 14th, 2022 =
 * Feat: Added Dual Tracking to track Google Analytics v3 and Google Analytics v4 simultaneously.
-* Del: Removed Stealth Mode Lite since its code was too outdated. To continue using Stealth Mode, upgrade to CAOS Pro. [Read more](https://ffw.press/blog/wordpress/major-changes-caos-pro/)
+* Del: Removed Stealth Mode Lite since its code was too outdated. To continue using Stealth Mode, upgrade to CAOS Pro. [Read more](https://daan.dev/blog/wordpress/major-changes-caos-pro/)
 * Del: Google Optimize was removed and moved to a separate free plugin, to be found [here](https://github.com/Dan0sz/caos-google-optimize).
 * Fix: Removed all references to Super Stealth, since it's been renamed to CAOS Pro.
 * Dev: Debug information is now logged when Track Ad Blockers is enabled.

@@ -26,33 +26,34 @@
 
 .eae-progress-bar:before {
   content: "\e907";
-  color: #556068;
+  color: #BABFC5;
 }
 .eae-dual-button:before {
   content: "\e906";
-  color: #556068;
+  /* color: #556068; */
+  color: #BABFC5;
 }
 .eae-compare-table:before {
   content: "\e905";
-  color: #556068;
+  color: #BABFC5;
 }
 .eae-ba:before {
   content: "\e904";
-  color: #556068;
+  color: #BABFC5;
 }
 .eae-timer:before {
   content: "\e900";
-  color: #556068;
+  color: #BABFC5;
 }
 .eae-timeline:before {
   content: "\e901";
-  color: #556068;
+  color: #BABFC5;
 }
 .eae-popup:before {
   content: "\e902";
-  color: #556068;
+  color: #BABFC5;
 }
 .eae-info-circle:before {
   content: "\e903";
-  color: #556068;
+  color: #BABFC5;
 }
